@@ -1,1 +1,3 @@
 # Lab
+
+## project notes 
