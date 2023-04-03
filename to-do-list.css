@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+body {
+	background-color: #ffffff;
+}
+
+.my-list {
+	background-color: #f7f381;
+	padding: 8px 24px;
+	width: 500px;
+    font-size: 30px;
+	border: 1px solid #f7f381;
+	box-shadow: 0 0 10px 2px #333333;
+}
+
+.my-list h1 {
+    Margin: 12px;
+}
+
+.my-list p.date {
+	text-align: center;
+}
+=======
+body {
+	background-color: #ffffff;
+}
+
+.my-list {
+	background-color: #f7f381;
+	padding: 8px 24px;
+	width: 500px;
+    font-size: 30px;
+	border: 1px solid #f7f381;
+	box-shadow: 0 0 10px 2px #333333;
+}
+
+.my-list h1 {
+    Margin: 12px;
+}
+
+.my-list p.date {
+	text-align: center;
+}
+>>>>>>> 1b885b4fcf4a235a6f665cab8efa2d43f8ea56c1
